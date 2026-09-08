@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 1000" width="1000" height="1000">
+  <rect width="1000" height="1000" fill="#0d0f12" />
+  <!-- Dot in front of snout -->
+  <circle cx="125" cy="665" r="32" fill="#ffffff" />
+  <!-- Mouse Silhouette with Eye Cutouts -->
+  <path fill="#ffffff" fill-rule="evenodd" clip-rule="evenodd" d="
+    M 175 665
+    L 605 550
+    C 620 330, 650 120, 720 50
+    C 755 15, 800 25, 825 80
+    C 855 150, 830 460, 805 565
+    L 970 500
+    L 970 795
+    L 800 810
+    L 905 960
+    L 645 960
+    L 680 810
+    L 175 665
+    Z
+    M 525 605
+    A 42 42 0 1 0 525 689
+    A 42 42 0 1 0 525 605
+    Z
+    M 650 605
+    A 42 42 0 1 0 650 689
+    A 42 42 0 1 0 650 605
+    Z
+  " />
+  <!-- Authentic Brand Typography -->
+  <text x="205" y="895" fill="#ffffff" font-family="'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-weight="600" font-size="54" letter-spacing="6">A RATOEIRA</text>
+</svg>
